@@ -1,0 +1,18 @@
+#The variable used for absolute risk prediction were defined as follows:#
+age: the current age (years);
+gender: 1 for males, 0 for females;
+region_is_urban:1 for urban,0 for rural;
+cancer_diag: 1 for previous diagnosed of cnancer; 0 for not;
+cancer_family_history: 1 for with family history of cancer in first-degree relative, 0 for without;
+emph_bronc_diag: 1 for with medical history of emphysema or bronchitis, 0 for without;
+bmi_calc: body mass index;
+cig_equiv_day:the average number of tobacco smoked per day;
+smoking_age_start: age of regular smoking first started (years);
+smoking_inhalation: degree of inhalation,0 for mouth only, 1 for throat, 2 for lung; 
+smoking_stopped_years_ago: years since smoking cessation;
+cough_freq: frequently cough during past 12 months, 0 for never, 1 for yes and less than 3 months, 2 for yes and more than 3 months;
+smoke: 0 for never, 1 for ever;
+fev1_max: forced expiratory volume in 1 s (FEV1), litres;
+smoking_to_lung: 1 for yes, 0 for no;
+
+

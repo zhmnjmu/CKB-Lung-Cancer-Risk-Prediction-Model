@@ -1,0 +1,2 @@
+age,gender,region_is_urban,cancer_diag,cancer_family_history,emph_bronc_diag,bmi_calc,cig_equiv_day,smoking_age_start,smoking_inhalation,smoking_stopped_years_ago,cough_freq,smoke,fev1_max,smoking_to_lung
+58.21,1,1,0,1,0,26.1,10,20,2,0,0,1,3.01,1
